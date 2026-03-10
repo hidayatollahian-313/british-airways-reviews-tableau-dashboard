@@ -6,8 +6,8 @@ This project presents an interactive data visualization dashboard analyzing cust
 The dashboard helps analyze how customers rate different aspects of the airline including cabin staff service, entertainment, food & beverages, ground service, seat comfort, and value for money.
 
 ## Tools Used
-Tableau
-Data Visualization
+Tableau,
+Data Visualization,
 Exploratory Data Analysis (EDA)
 
 ## Dashboard Insights
