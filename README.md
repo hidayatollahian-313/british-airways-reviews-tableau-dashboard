@@ -30,7 +30,7 @@ This project is a data analysis and visualization dashboard created using Tablea
 The dataset includes customer reviews, ratings, aircraft details, and travel information.
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Conclusion
 This project demonstrates how data visualization can help in understanding customer feedback and improving business decisions.
