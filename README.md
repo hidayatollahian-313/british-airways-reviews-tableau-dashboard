@@ -125,7 +125,7 @@ This project demonstrates the ability to analyze customer feedback data and conv
 ## Connect
 
 LinkedIn: [[Your LinkedIn Link] ](https://www.linkedin.com/in/hidayat-ullah-5060743b6/) 
-GitHub: [Your GitHub Profile]  
+GitHub: [[Your GitHub Profile] ](https://github.com/hidayatollahian-313) 
 
 ---
 
